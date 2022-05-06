@@ -4,7 +4,7 @@
 <img width=100%, height=500px src="./media/shell.jpeg">
 
 ## Content of README
-* [Content of Repo](Contents-of-Repo)
+* [Content of Repo](contents-of-repo)
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
