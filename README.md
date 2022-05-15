@@ -131,9 +131,12 @@ From the project instruction, we were asked to replicate some builtins you woul 
 
 ## How to Setup
 
-## Requirement
+```
+-----> Requirement
 * Any Ubuntu distribution
 * GCC installed (gcc 9.3.0)
+----->
+```
 
 Follow below steps to setup locally:
 * clone repo: ```git clone https://github.com/stenwire/simple_shell.git```
