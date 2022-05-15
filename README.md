@@ -6,26 +6,25 @@
 
 <br>
 
->## Goal of Project
-Th goal of this project is to implement a simple unix shell -- What is a unix shell? A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems.  The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts.[2]
+## Goal of Project
+Th goal of this project is to implement a simple unix shell -- What is a unix shell? A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems.  The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts.
 Users typically interact with a Unix shell using a terminal emulator; however, direct operation via serial hardware connections or Secure Shell are common for server systems.  All Unix shells provide filename wildcarding, piping, here documents, command substitution, variables and control structures for condition-testing and iteration.[source: Wikipedia]
 
 <br>
 
->## Navigate README
-* [Content of Repo](#navigate-repoNavigate-Repo)
-* [General Information](#general-information)
+## Navigate README
+* [Content of Repo](#navigate-repo)
+* [General Information](#goal-of-project)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Setup](#how-to-Setup)
+* [Setup](#how-to-setup)
 * [Usage](#example-of-usage)
-* [Acknowledgements](#acknowledgements)
 * [Author](#authors)
-* [License](#license-&&-Contribution)
+* [License](#license-&&-contribution)
 
 <br>
 
->## Navigate Repo
+## Navigate Repo
 
 * [Man Page](https://github.com/stenwire/simple_shell/blob/master/man_1_simple_shell.man)
 * [Checkout shell/linux memes](https://github.com/stenwire/simple_shell/tree/master/media/memes)
@@ -35,7 +34,7 @@ Users typically interact with a Unix shell using a terminal emulator; however, d
 
 <br>
 
->## Features
+## Features
 
 From the project instruction, we were asked to replicate some builtins you woul find in a normal unix shell, along with that we were also tasked with some features of the normal unix shell. Some of these builtins and features we weere able to replicate are highlighted in the table below and vice versa.
 
@@ -89,6 +88,8 @@ From the project instruction, we were asked to replicate some builtins you woul 
   </tr>
 </table
 
+<br>
+  
 <table>
   <tr>
     <th></th>
@@ -122,13 +123,13 @@ From the project instruction, we were asked to replicate some builtins you woul 
 
 <br>
 
->## Example of usage
+## Example of usage
 
 <img src="" alt="Gif showing usage">
 
 <br>
 
->## How to Setup
+## How to Setup
 
 ## Requirement
 * Any Ubuntu distribution
@@ -143,7 +144,7 @@ Follow below steps to setup locally:
 
 <br>
 
->## Authors
+## Authors
 
 <table>
 <tr>
@@ -157,6 +158,6 @@ Follow below steps to setup locally:
 
 <br>
 
->## License && Contribution
+## License && Contribution
 
 This project will bee made open source and can be freely contributed to from/after 19-05-2022, please checkout [Contribution guildline](https://github.com/stenwire/simple_shell.git/contributing.md)
