@@ -1,7 +1,7 @@
-#include "shell.h"
+#include "main.h"
 
 /* global variable for ^C handling */
-unsigned int sig_flag;
+
 
 /**
  * sig_handler - handles ^C signal interupt
@@ -31,6 +31,8 @@ int main(int argc __attribute__((unused)), char **argv, char **environment)
 	size_t len_buffer = 0;
 	unsigned int is_pipe = 0, i;
 	vars_t vars = {NULL, NULL, NULL, 0, NULL, 0, NULL};
+
+	init_shell();
 
 	vars.argv = argv;
 	vars.env = make_env(environment);
