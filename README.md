@@ -152,10 +152,13 @@ Follow below steps to setup locally:
 <table>
 <tr>
     <th>Stephen Nwankwo</th>
+    <th>HARUNA BERIKISU</th>
 </tr>
 <tr>
     <td><a url="wwww.github.com/stenwire">Github</a></td>
     <td><a url="https://www.linkedin.com/in/stephen-nwankwo-9876b4196/">LinkedIn</a></td>
+    
+    <td><a url="www.github.com/Becky1810">Github</a></td>
 </tr>
 </table>
 
