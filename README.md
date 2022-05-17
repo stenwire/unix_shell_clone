@@ -158,10 +158,10 @@ Follow below steps to setup locally:
     <td>
     <a href="https://www.linkedin.com/in/stephen-nwankwo-9876b4196">LinkedIn<a>
     </td>
-    <td><a href="www.github.com/Becky1810">Github</a></td>
+    <td><a href="https://www.github.com/Becky1810">Github</a></td>
     <tr>
-    <td><a href="www.twitter.com/Lord_Sten">Twitter</a></td>
-    <td><a href="www.github.com/Becky1810">Nil</a></td>
+    <td><a href="https://twitter.com/Lord_Sten">Twitter</a></td>
+    <td><a href="https://www.github.com/Becky1810">Nil</a></td>
     </tr>
 </tr>
 </table>
