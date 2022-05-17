@@ -1,6 +1,6 @@
 #include "main.h"
 
-/* global variable for ^C handling */
+#define clear() printf("\033[H\033[J")
 
 
 /**
@@ -16,6 +16,24 @@ static void sig_handler(int uuv)
 		_puts("\n$ ");
 	else
 		_puts("\n");
+}
+
+/**
+ * init_shell - initialiases shell with greeting
+ * Return: void
+ */
+void init_shell(void)
+{
+	_puts("\n\t\t\t\t======>\n");
+	_puts("\n\t\t\t\t\tA simple UNIX SHELL\n");
+	_puts("\n\t\t\t\t\t\t=by=\n");
+	_puts("\n\t\t\t\t\tStephen and Becky\n");
+	_puts("\n\t\t\t\t\t\t\t\t<======\n");
+	sleep(0.5);
+	_puts("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+	_puts("+++++++++++++++++++++++++++++++++++++");
+	_puts("\n");
+	sleep(1);
 }
 
 /**
