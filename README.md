@@ -156,12 +156,12 @@ Follow below steps to setup locally:
 </tr>
 <tr>
     <td>
-    <a url="https://www.linkedin.com/in/stephen-nwankwo-9876b4196">LinkedIn<a>
+    <a href="https://www.linkedin.com/in/stephen-nwankwo-9876b4196">LinkedIn<a>
     </td>
-    <td><a url="wwww.github.com/stenwire">Github</a></td>
+    <td><a href="www.github.com/Becky1810">Github</a></td>
     <tr>
-    <td><a url="www.twitter.com/Lord_Sten">Twitter</a></td>
-    <td><a url="www.github.com/Becky1810">Nil</a></td>
+    <td><a href="www.twitter.com/Lord_Sten">Twitter</a></td>
+    <td><a href="www.github.com/Becky1810">Nil</a></td>
     </tr>
 </tr>
 </table>
