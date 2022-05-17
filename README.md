@@ -1,6 +1,6 @@
 <!-- ![shell image](./media/linux.png) -->
 
-<img width=100px, height=100px src="./media/shell2.jpg"> <h1>A Simple Unix Shell</h1>
+<img width=100px, height=100px src="./media/shell2.jpg" alt="Pictorial representation of a shell"> <h1>A Simple Unix Shell</h1>
 
 <!-- <img width=100%, height=500px src="./media/shell.jpeg"> -->
 
@@ -125,7 +125,7 @@ From the project instruction, we were asked to replicate some builtins you woul 
 
 ## Example of usage
 
-<img src="" alt="Gif showing usage">
+<img src="./media/shell_gif.gif" alt="Gif showing usage">
 
 <br>
 
@@ -155,10 +155,14 @@ Follow below steps to setup locally:
     <th>HARUNA BERIKISU</th>
 </tr>
 <tr>
+    <td>
+    <a url="https://www.linkedin.com/in/stephen-nwankwo-9876b4196">LinkedIn<a>
+    </td>
     <td><a url="wwww.github.com/stenwire">Github</a></td>
-    <td><a url="https://www.linkedin.com/in/stephen-nwankwo-9876b4196/">LinkedIn</a></td>
-    
-    <td><a url="www.github.com/Becky1810">Github</a></td>
+    <tr>
+    <td><a url="www.twitter.com/Lord_Sten">Twitter</a></td>
+    <td><a url="www.github.com/Becky1810">Nil</a></td>
+    </tr>
 </tr>
 </table>
 
