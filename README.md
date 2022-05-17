@@ -127,6 +127,8 @@ From the project instruction, we were asked to replicate some builtins you woul 
 </table
 
 <br>
+  
+ <br>
 
 ## Example of usage
 
