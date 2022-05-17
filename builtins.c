@@ -158,9 +158,13 @@ void new_unsetenv(vars_t *vars)
 	vars->status = 0;
 }
 
-/**void _help(vars_t *vars __attribute__((unused)))
+/**
+ * _help - shows available commands
+ * @vars: unused variable
+ * Return: void
+ */
+void _help(vars_t *vars __attribute__((unused)))
 {
-    __attribute__((unused)) void* f;
-    _puts("This is the help screen");
-    vars->status = 0;
-}**/
+	__attribute__((unused)) void *f;
+	_puts("This is the help screen\n");
+}
