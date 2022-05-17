@@ -119,6 +119,11 @@ From the project instruction, we were asked to replicate some builtins you woul 
     <td>unsetenv</td>
     <td>-----YES</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>help</td>
+    <td>...hmm,somehow</td>
+  </tr>
 </table
 
 <br>
