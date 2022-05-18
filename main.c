@@ -1,8 +1,5 @@
 #include "main.h"
 
-/**#define clear() printf("\033[H\033[J")*/
-
-
 /**
  * sig_handler - handles ^C signal interupt
  * @uuv: unused variable (required for signal function prototype)
@@ -19,24 +16,6 @@ static void sig_handler(int uuv)
 }
 
 /**
- * init_shell - initialiases shell with greeting
- * Return: void
- */
-/**void init_shell(void)
-{
-	_puts("\n\t\t\t\t======>\n");
-	_puts("\n\t\t\t\t\tA simple UNIX SHELL\n");
-	_puts("\n\t\t\t\t\t\t=by=\n");
-	_puts("\n\t\t\t\t\tStephen and Becky\n");
-	_puts("\n\t\t\t\t\t\t\t\t<======\n");
-	sleep(0.5);
-	_puts("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-	_puts("+++++++++++++++++++++++++++++++++++++");
-	_puts("\n");
-	sleep(1);
-}*/
-
-/**
  * main - main function for the shell
  * @argc: number of arguments passed to main
  * @argv: array of arguments passed to main
@@ -49,8 +28,6 @@ int main(int argc __attribute__((unused)), char **argv, char **environment)
 	size_t len_buffer = 0;
 	unsigned int is_pipe = 0, i;
 	vars_t vars = {NULL, NULL, NULL, 0, NULL, 0, NULL};
-
-	/**init_shell();*/
 
 	vars.argv = argv;
 	vars.env = make_env(environment);
