@@ -69,7 +69,7 @@ From the project instruction, we were asked to replicate some builtins you woul 
   <tr>
     <td>5</td>
     <td>shell continues upon Crtl+C (^C)</td>
-    <td>----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>6</td>
