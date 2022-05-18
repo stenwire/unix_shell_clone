@@ -84,7 +84,7 @@ From the project instruction, we were asked to replicate some builtins you woul 
   <tr>
     <td>8</td>
     <td>handles ";"</td>
-    <td>---YES</td>
+    <td>YES</td>
   </tr>
 </table
 
