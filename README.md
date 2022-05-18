@@ -100,24 +100,29 @@ From the project instruction, we were asked to replicate some builtins you woul 
   <tr>
     <td>1</td>
     <td>exit</td>
-    <td>---YES</td>
+    <td>YES</td>
   </tr>
 
   <tr>
     <td>2</td>
     <td>env</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
     
   <tr>
     <td>3</td>
     <td>setenv</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>4</td>
     <td>unsetenv</td>
-    <td>-----YES</td>
+    <td>YES</td>
+  </tr>
+  <tr>
+  <td>5</td>
+  <td>help</td>
+  <td>YES</td>
   </tr>
 </table
 
@@ -125,7 +130,7 @@ From the project instruction, we were asked to replicate some builtins you woul 
 
 ## Example of usage
 
-<img src="" alt="Gif showing usage">
+<img src="./media/shell_gif.gif" alt="Gif showing usage">
 
 <br>
 
@@ -143,7 +148,7 @@ Follow below steps to setup locally:
 * change into repo: ```cd simple_shell```
 * verify all files
 * Compile: ```gcc -Wall -Werror -Wextra -pedantic *.c -o hsh```
-* Run the shell in interactive mode: ```./hsh``` or run the shell in non-interactive mode: ```echo "pwd" | ./hsh ```
+* Run the shell in interactive mode: ```./hsh``` or run the shell in non-interactive mode: ```echo "<your command here>" | ./hsh ```
 
 <br>
 
@@ -155,13 +160,17 @@ Follow below steps to setup locally:
     <th>HARUNA BERIKISU</th>
 </tr>
 <tr>
-    <td><a url="wwww.github.com/stenwire">Github</a></td>
-    <td><a url="https://www.linkedin.com/in/stephen-nwankwo-9876b4196/">LinkedIn</a></td>
-    
-    <td><a url="www.github.com/Becky1810">Github</a></td>
+    <tr>
+    <td><a href="wwww.github.com/stenwire">Github</a></td>
+    <td><a href="www.github.com/Becky1810">Github</a></td>
+    </tr>
+    <tr>
+    <td><a href="https://www.linkedin.com/in/stephen-nwankwo-9876b4196/">LinkedIn</a></td>
+    <td><a href="www.github.com/Becky1810">Nil</a></td>
+    </tr>
 </tr>
 </table>
-git pll
+
 
 <br>
 
