@@ -119,9 +119,16 @@ From the project instruction, we were asked to replicate some builtins you woul 
     <td>unsetenv</td>
     <td>-----YES</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>help</td>
+    <td>...hmm,somehow</td>
+  </tr>
 </table
 
 <br>
+  
+ <br>
 
 ## Example of usage
 
@@ -156,12 +163,12 @@ Follow below steps to setup locally:
 </tr>
 <tr>
     <td>
-    <a url="https://www.linkedin.com/in/stephen-nwankwo-9876b4196">LinkedIn<a>
+    <a href="https://www.linkedin.com/in/stephen-nwankwo-9876b4196">LinkedIn<a>
     </td>
-    <td><a url="wwww.github.com/stenwire">Github</a></td>
+    <td><a href="https://www.github.com/Becky1810">Github</a></td>
     <tr>
-    <td><a url="www.twitter.com/Lord_Sten">Twitter</a></td>
-    <td><a url="www.github.com/Becky1810">Nil</a></td>
+    <td><a href="https://twitter.com/Lord_Sten">Twitter</a></td>
+    <td><a href="https://www.github.com/Becky1810">Nil</a></td>
     </tr>
 </tr>
 </table>
