@@ -79,7 +79,7 @@ From the project instruction, we were asked to replicate some builtins you woul 
   <tr>
     <td>7</td>
     <td>handles comments (#)</td>
-    <td>---YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>8</td>
