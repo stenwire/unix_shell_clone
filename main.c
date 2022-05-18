@@ -1,6 +1,6 @@
 #include "main.h"
 
-#define clear() printf("\033[H\033[J")
+/**#define clear() printf("\033[H\033[J")*/
 
 
 /**
@@ -22,7 +22,7 @@ static void sig_handler(int uuv)
  * init_shell - initialiases shell with greeting
  * Return: void
  */
-void init_shell(void)
+/**void init_shell(void)
 {
 	_puts("\n\t\t\t\t======>\n");
 	_puts("\n\t\t\t\t\tA simple UNIX SHELL\n");
@@ -34,7 +34,7 @@ void init_shell(void)
 	_puts("+++++++++++++++++++++++++++++++++++++");
 	_puts("\n");
 	sleep(1);
-}
+}*/
 
 /**
  * main - main function for the shell
@@ -50,7 +50,7 @@ int main(int argc __attribute__((unused)), char **argv, char **environment)
 	unsigned int is_pipe = 0, i;
 	vars_t vars = {NULL, NULL, NULL, 0, NULL, 0, NULL};
 
-	init_shell();
+	/**init_shell();*/
 
 	vars.argv = argv;
 	vars.env = make_env(environment);
