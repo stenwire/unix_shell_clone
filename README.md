@@ -1,8 +1,8 @@
 <!-- ![shell image](./media/linux.png) -->
 
-<img width=100px, height=100px src="./media/shell2.jpg" alt="Pictorial representation of a shell"> <h1>A Simple Unix Shell</h1>
+<img width=100px, height=100px src="./media/shell2.jpg"> <h1>A Simple Unix Shell</h1>
 
-<!-- <img width=100%, height=500px src="./media/shell.jpeg"> -->
+<img width=100%, height=500px src="./media/shell.jpeg">
 
 <br>
 
@@ -31,7 +31,7 @@ Users typically interact with a Unix shell using a terminal emulator; however, d
 * [Header file](https://github.com/stenwire/simple_shell/blob/master/shell.h)
 * [New environment file](https://github.com/stenwire/simple_shell/blob/master/new_environment.c)
 * [File containing string functions](https://github.com/stenwire/simple_shell/blob/master/string_functions.c)
-
+* 
 <br>
 
 ## Features
@@ -49,42 +49,42 @@ From the project instruction, we were asked to replicate some builtins you woul 
   <tr>
     <td>1</td>
     <td>handles command line arguments</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>2</td>
     <td>implements builtins</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>3</td>
     <td>uses the PATH</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>4</td>
     <td>uses exit status</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>5</td>
     <td>shell continues upon Crtl+C (^C)</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>6</td>
     <td>custom strtok function</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>7</td>
     <td>handles comments (#)</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
   <tr>
     <td>8</td>
     <td>handles ";"</td>
-    <td>-----YES</td>
+    <td>YES</td>
   </tr>
 </table
 
@@ -100,7 +100,7 @@ From the project instruction, we were asked to replicate some builtins you woul 
   <tr>
     <td>1</td>
     <td>exit</td>
-    <td>-----YES</td>
+    <td>---YES</td>
   </tr>
 
   <tr>
@@ -119,20 +119,13 @@ From the project instruction, we were asked to replicate some builtins you woul 
     <td>unsetenv</td>
     <td>-----YES</td>
   </tr>
-  <tr>
-    <td>5</td>
-    <td>help</td>
-    <td>...hmm,somehow</td>
-  </tr>
 </table
 
 <br>
-  
- <br>
 
 ## Example of usage
 
-<img src="./media/shell_gif.gif" alt="Gif showing usage">
+<img src="" alt="Gif showing usage">
 
 <br>
 
@@ -162,16 +155,13 @@ Follow below steps to setup locally:
     <th>HARUNA BERIKISU</th>
 </tr>
 <tr>
-    <td>
-    <a href="https://www.linkedin.com/in/stephen-nwankwo-9876b4196">LinkedIn<a>
-    </td>
-    <td><a href="https://www.github.com/Becky1810">Github</a></td>
-    <tr>
-    <td><a href="https://twitter.com/Lord_Sten">Twitter</a></td>
-    <td><a href="https://www.github.com/Becky1810">Nil</a></td>
-    </tr>
+    <td><a url="wwww.github.com/stenwire">Github</a></td>
+    <td><a url="https://www.linkedin.com/in/stephen-nwankwo-9876b4196/">LinkedIn</a></td>
+    
+    <td><a url="www.github.com/Becky1810">Github</a></td>
 </tr>
 </table>
+git pll
 
 <br>
 
