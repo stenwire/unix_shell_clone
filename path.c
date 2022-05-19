@@ -11,7 +11,7 @@ int path_execute(char *command, vars_t *vars)
 {
 	pid_t child_pid;
 
-	if (access(command, X_OK) == 0) p 
+	if (access(command, X_OK) == 0)  
 	{
 		child_pid = fork();
 		if (child_pid == -1)
