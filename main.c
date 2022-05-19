@@ -12,7 +12,7 @@ static void sig_handler(int uuv)
 	if (sig_flag == 0)
 		_puts("\n$ ");
 	else
-		_puts("\n");
+		_puts("\n"); 9
 }
 
 /**
