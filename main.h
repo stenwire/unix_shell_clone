@@ -45,7 +45,6 @@ typedef struct builtins
 } builtins_t;
 
 
-void init_shell();
 void _change_dir(char **vars);
 char **make_env(char **env);
 void free_env(char **env);
