@@ -1,14 +1,14 @@
 <!-- ![shell image](./media/linux.png) -->
 
-<img width=100px, height=100px src="./media/shell2.jpg"> <h1>A Simple Unix Shell</h1>
+<img width=100px, height=100px src="./media/shell2.jpg"> <h1>An Implementation of a Unix Shell</h1>
 
 <img width=100%, height=500px src="./media/shell.jpeg">
 
 <br>
 
 ## Goal of Project
-Th goal of this project is to implement a simple unix shell -- What is a unix shell? A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems.  The shell is both an interactive command language and a scripting language, and is used by the operating system to control the execution of the system using shell scripts.
-Users typically interact with a Unix shell using a terminal emulator; however, direct operation via serial hardware connections or Secure Shell are common for server systems.  All Unix shells provide filename wildcarding, piping, here documents, command substitution, variables and control structures for condition-testing and iteration.[source: Wikipedia]
+Th goal of this project is to implement a simple Unix shell -- What is a Unix shell? A Unix shell is a command-line interpreter or shell that provides a command-line user interface for Unix-like operating systems.  The shell is both an interactive command language and a scripting language and is used by the operating system to control the execution of the system using shell scripts.
+Users typically interact with a Unix shell using a terminal emulator; however, direct operation via serial hardware connections or Secure Shell is common for server systems.  All Unix shells provide filename wildcarding, piping, here documents, command substitution, variables, and control structures for condition-testing and iteration.[source: Wikipedia]
 
 <br>
 
